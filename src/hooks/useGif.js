@@ -3,7 +3,7 @@ import axios from "axios";
 import  { useState } from "react";
 import { useEffect } from "react";
 
-const API_KEY = process.env.REACT_APP_GIPHY_API_KEY;
+const API_KEY = FGJ5I2B9O4LPZRcLZYroLR5SU3arO2Xy;
 const url = `https://api.giphy.com/v1/gifs/random?api_key=${API_KEY}`;
 
 
